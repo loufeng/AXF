@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b826acda-a512-49f0-85a9-2d0a2ec32727" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +96,7 @@
           <entry key="css" value="368" />
           <entry key="html" value="5657" />
           <entry key="js" value="3476" />
-          <entry key="md" value="20" />
+          <entry key="md" value="35" />
           <entry key="py" value="7838" />
           <entry key="txt" value="3" />
         </counts>
@@ -107,7 +106,7 @@
           <entry key="CSS" value="368" />
           <entry key="HTML" value="5657" />
           <entry key="JavaScript" value="3476" />
-          <entry key="Markdown" value="20" />
+          <entry key="Markdown" value="35" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="7838" />
         </counts>
